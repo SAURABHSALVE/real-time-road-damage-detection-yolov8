@@ -1,0 +1,18 @@
+# Dataset
+images/
+labels/
+train/
+val/
+*.cache
+
+# Model weights
+*.pt
+runs/
+
+# Output
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

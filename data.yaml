@@ -1,0 +1,8 @@
+path: d:/real-time-road-detection
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: Pothole
+  1: Crack
