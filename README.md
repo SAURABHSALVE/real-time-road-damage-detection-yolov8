@@ -117,7 +117,7 @@ model.train(
 
 ## Sample Output
 
-![Sample Detection](output/n00020-2023-10-11_09-02-49-851.jpg)
+![Sample Detection](samples/n00020-2023-10-11_09-02-49-851.jpg)
 
 ## Tech Stack
 
