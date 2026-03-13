@@ -115,6 +115,10 @@ model.train(
 
 4. Copy `runs/road_damage/weights/best.pt` back to your local project for inference.
 
+## Sample Output
+
+![Sample Detection](output/n00020-2023-10-11_09-02-49-851.jpg)
+
 ## Tech Stack
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
